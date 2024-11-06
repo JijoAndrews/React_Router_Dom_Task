@@ -58,10 +58,7 @@
   box-shadow: 0 8px 6px -10px grey;
 }
 
-.card {
-  /* padding: 2em;
-  margin: 10px; */
-}
+
 
 .read-the-docs {
   color: #888;
@@ -299,6 +296,8 @@
   justify-content: center;
   /* box-shadow: 0 8px 6px -10px grey; */
 }
+
+
 /* 
   .btnclassforlink
   {
@@ -306,6 +305,8 @@
     padding: 80px;
     box-shadow: 0 8px 6px -10px grey;
   } */
+
+
   .drpdownbtnv2
   {
     display: flex;
@@ -318,7 +319,7 @@
   .btnclassforlink
 {
   display: flex;
-  justify-content: center;
+  justify-content:center;
   font-size: 15px;
   white-space: nowrap;
   font-weight: 500;
