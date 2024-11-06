@@ -40,3 +40,373 @@
 .read-the-docs {
   color: #888;
 }
+
+.container
+{
+  display: flex;
+  justify-content: center;
+  padding: 50px;
+}
+
+.hideclass0
+{
+  box-shadow: 0 8px 6px -10px grey;
+}
+
+.hideclass1
+{
+  box-shadow: 0 8px 6px -10px grey;
+}
+
+.card {
+  /* padding: 2em;
+  margin: 10px; */
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.cardclass
+{
+  display: flex;
+}
+
+
+.navbarbtnclasss
+{
+  display: flex;
+  justify-content: center;
+  box-shadow: 0 8px 6px -10px grey;
+}
+
+.navbarbtnclasss1
+{
+  display: grid;
+  justify-content: center;
+}
+
+.subclass
+{
+  display: flex;
+}
+
+.linkclass
+{
+  text-decoration: none;
+  color: #616060;
+}
+
+.btnclass
+{
+  font-size: 15px;
+  white-space: nowrap;
+  font-weight: 500;
+  padding: 50px;
+  height: 1px;
+  border: 0;
+  margin: 1em 0;
+}
+
+.btnclassforlink
+{
+  /* font-size: 15px;
+  white-space: nowrap;
+  font-weight: 500;
+  padding: 50px;
+  height: 1px;
+  border: 0;
+  margin: 1em 0; */
+}
+
+
+.btnclassclicked
+{
+  font-size: 15px;
+  white-space: nowrap;
+  font-weight: 500;
+  padding: 50px;
+  height: 1px;
+  border: 0;
+  margin: 1em 0;
+  
+  color:green;
+  text-decoration: underline;
+  text-decoration-thickness: 5px;
+  text-underline-offset:80px;
+}
+
+/* .btnclassforlink
+{
+  display: none;
+} */
+
+
+.drpdownbtn
+{
+  font-size: 15px;
+  white-space: nowrap;
+  font-weight: 500;
+  padding: 50px;
+  height: 1px;
+  border: 0;
+  margin: 1em 0;
+}
+
+.drpdownbtnv2
+{
+  /* font-size: 15px;
+  white-space: nowrap;
+  font-weight: 500;
+  padding: 50px;
+  height: 1px;
+  border: 0;
+  margin: 1em 0; */
+  display: none;
+}
+
+
+.btnclass1
+{
+  display: none;
+  font-size: 15px;
+  white-space: nowrap;
+  font-weight: 500;
+  padding: 50px;
+  height: 1px;
+  border: 0;
+  margin: 1em 0;
+}
+
+ .btnclass2
+{
+  display: flex;
+}
+
+.navbtnclass
+{
+  display: flex;
+  justify-content: center;
+}
+
+.btnclass3
+{
+  display: flex;
+} 
+
+.clickbtn
+{
+  display:none;
+  font-size: 15px;
+  white-space: nowrap;
+  font-weight: 500;
+  padding: 50px;
+  height: 1px;
+  border: 0;
+  margin: 1em 0;
+}
+
+.btnclass:hover
+{
+  color: green;
+  text-decoration: underline;
+  text-decoration-thickness: 5px;
+  text-underline-offset:30px;
+}
+
+.test0{display: none;}
+.test1{display: none;}
+
+
+
+@media screen and (max-width: 1040px) {
+  
+  .btnclass
+  {
+    font-size: 12px;
+    padding: 30px;
+    margin: 5px;
+  }
+
+  .btnclassforlink
+  {
+    display: none;
+  }
+
+  .btnclassclicked
+  {
+    /* font-size: 15px;
+    white-space: nowrap;
+    font-weight: 500;
+    padding: 50px;
+    height: 1px;
+    border: 0;
+    margin: 1em 0; */
+
+    font-size: 12px;
+    padding: 30px;
+    margin: 5px;
+    white-space: nowrap;
+
+    color:green;
+    text-decoration: underline;
+    text-decoration-thickness: 5px;
+    text-underline-offset:50px;
+  }
+
+
+  .btnclass:hover
+  {
+    color:green;
+    text-decoration: underline;
+    text-decoration-thickness: 5px;
+    text-underline-offset:30px;
+  }
+
+  
+  .test0{display: none;}
+  .test1{display: none;}
+}
+
+
+@media screen and (max-width: 800px) {
+  
+  .btnclass
+  {
+    display: flex;
+    font-size: 12px;
+    padding: 30px;
+    margin: 5px;
+  }
+
+  .drpdownbtn
+  {
+    display: flex;
+    font-size: 12px;
+    padding: 30px;
+    margin: 5px;
+  }
+
+  .btnclass1
+  {
+    display: flex;
+    justify-content: center;
+  }
+
+  .navbarbtnclasss1
+{
+  display: grid;
+  justify-content: center;
+  /* box-shadow: 0 8px 6px -10px grey; */
+}
+/* 
+  .btnclassforlink
+  {
+    display: flex;
+    padding: 80px;
+    box-shadow: 0 8px 6px -10px grey;
+  } */
+  .drpdownbtnv2
+  {
+    display: flex;
+    font-size: 12px;
+    padding: 30px;
+    margin: 5px;
+  }
+
+
+  .btnclassforlink
+{
+  display: flex;
+  justify-content: center;
+  font-size: 15px;
+  white-space: nowrap;
+  font-weight: 500;
+  padding: 50px;
+  height: 1px;
+  border: 0;
+  margin: 1em 0;
+}
+
+
+  .btnclass2
+  {
+    display: none;
+  }
+
+
+  .btnclass3
+  {
+    display: flex;
+  }
+
+  .hideclass1
+  {
+    display:none;
+  }
+
+
+
+  .hideclass0
+  {
+    display: grid;
+    justify-content: center;
+  }
+
+  .clickbtn
+  {
+    display:flex;
+    font-size: 15px;
+    padding: 30px;
+    margin: 5px;
+  }
+
+  .clickbtnforlink
+  {
+    display:flex;
+    font-size: 15px;
+    padding: 30px;
+    margin: 5px;
+  }
+
+  .navbarbtnclasss
+  {
+    display: grid;
+    box-shadow: 0 8px 6px -10px grey;
+  }
+
+ 
+  .navbtnclass
+  {
+    display: grid;
+    justify-content: center;
+  }
+
+  .test0{
+    display: grid;
+    box-shadow: 0 8px 6px -10px grey;
+    background-color: #e4eaec;
+
+  }
+  .test1{display: none;}
+
+  .btnclass:hover
+{
+  color: green;
+  text-decoration: underline;
+  text-decoration-thickness: 5px;
+  text-underline-offset:20px;
+}
+
+/* @media (hover: hover) {
+  .btnclass:hover {
+  background-color: red;
+  color: white;
+ }
+} */
+
+.container
+{
+  display: grid;
+}
+}
