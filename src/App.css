@@ -105,16 +105,7 @@
   margin: 1em 0;
 }
 
-.btnclassforlink
-{
-  /* font-size: 15px;
-  white-space: nowrap;
-  font-weight: 500;
-  padding: 50px;
-  height: 1px;
-  border: 0;
-  margin: 1em 0; */
-}
+
 
 
 .btnclassclicked
@@ -133,10 +124,7 @@
   text-underline-offset:80px;
 }
 
-/* .btnclassforlink
-{
-  display: none;
-} */
+
 
 
 .drpdownbtn
@@ -152,13 +140,6 @@
 
 .drpdownbtnv2
 {
-  /* font-size: 15px;
-  white-space: nowrap;
-  font-weight: 500;
-  padding: 50px;
-  height: 1px;
-  border: 0;
-  margin: 1em 0; */
   display: none;
 }
 
@@ -232,14 +213,6 @@
 
   .btnclassclicked
   {
-    /* font-size: 15px;
-    white-space: nowrap;
-    font-weight: 500;
-    padding: 50px;
-    height: 1px;
-    border: 0;
-    margin: 1em 0; */
-
     font-size: 12px;
     padding: 30px;
     margin: 5px;
@@ -294,17 +267,8 @@
 {
   display: grid;
   justify-content: center;
-  /* box-shadow: 0 8px 6px -10px grey; */
 }
 
-
-/* 
-  .btnclassforlink
-  {
-    display: flex;
-    padding: 80px;
-    box-shadow: 0 8px 6px -10px grey;
-  } */
 
 
   .drpdownbtnv2
@@ -399,12 +363,6 @@
   text-underline-offset:20px;
 }
 
-/* @media (hover: hover) {
-  .btnclass:hover {
-  background-color: red;
-  color: white;
- }
-} */
 
 .container
 {
