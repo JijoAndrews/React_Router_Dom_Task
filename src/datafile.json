@@ -5,12 +5,12 @@
     {"id":3,"data":"Data science", "type":"ds"},
     {"id":4,"data":"Data science", "type":"ds"},
     {"id":5,"data":"Data science", "type":"ds"},
-    {"id":6,"data":"Cyber security", "type":"cs"},
-    {"id":7,"data":"Cyber security", "type":"cs"},
-    {"id":8,"data":"Cyber security", "type":"cs"},
-    {"id":9,"data":"Career", "type":"c"},
-    {"id":10,"data":"Career", "type":"c"},
-    {"id":11,"data":"Career", "type":"c"}
+    {"id":6,"data":"Cyber security", "type":"cybersec"},
+    {"id":7,"data":"Cyber security", "type":"cybersec"},
+    {"id":8,"data":"Cyber security", "type":"cybersec"},
+    {"id":9,"data":"Career", "type":"career"},
+    {"id":10,"data":"Career", "type":"career"},
+    {"id":11,"data":"Career", "type":"career"}
 
 ]
 

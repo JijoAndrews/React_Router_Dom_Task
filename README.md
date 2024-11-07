@@ -1,8 +1,10 @@
-# React + Vite
+# React +Router Dom + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+1. created a simple navigation tab for course categories.
+2. Used react router dom create path for page navigation (all,fulstack,cybersecurity,career).
+3. used Userparams to identify unqiue id for page and dynamic component is rendered on the webpage.  
+4. Pages also maintains responsive for both design and url fecthing.
 
-Currently, two official plugins are available:
+# Screenshots for output reference
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<!-- ![alt text](image-1.png) -->

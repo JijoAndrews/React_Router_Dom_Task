@@ -50,7 +50,8 @@
 
 .hideclass0
 {
-  box-shadow: 0 8px 6px -10px grey;
+  /* box-shadow: 0 8px 6px -10px grey; */
+  background-color:rgba(79, 207, 175, 0.521) ;
 }
 
 .hideclass1
@@ -241,6 +242,12 @@
 
 @media screen and (max-width: 800px) {
   
+  .card-body
+  {
+    display: flex;
+    justify-content: center;
+  }
+
   .btnclass
   {
     display: flex;
@@ -263,10 +270,9 @@
     justify-content: center;
   }
 
-  .navbarbtnclasss1
+.navbarbtnclasss1
 {
   display: grid;
-  justify-content: center;
 }
 
 
@@ -275,7 +281,7 @@
   {
     display: flex;
     font-size: 12px;
-    padding: 30px;
+    padding: 10px;
     margin: 5px;
   }
 
@@ -291,6 +297,8 @@
   height: 1px;
   border: 0;
   margin: 1em 0;
+  box-shadow: 0 8px 6px -10px grey;
+
 }
 
 
@@ -337,7 +345,7 @@
   .navbarbtnclasss
   {
     display: grid;
-    box-shadow: 0 8px 6px -10px grey;
+    /* box-shadow: 0 8px 6px -10px grey; */
   }
 
  
@@ -364,8 +372,8 @@
 }
 
 
-.container
+/* .container
 {
   display: grid;
-}
+} */
 }
